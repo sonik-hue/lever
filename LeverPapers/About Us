@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>LeverPapers</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header class="about">
+        <nav>
+            <ul>
+                <li class="logo"><a href="Index.html"></a>Logo</li>
+                <li><a href="Index.html">Home</a></li>
+                <li class="mobile"><a href="About Us.html">About Us</a></li>
+                <li class="desktop"><a href="About Us.html">About Us</a></li>
+                <li class="mobile"><a href="Our Team.html">Our Team</a></li>
+                <li class="desktop"><a href="Our Team.html">Our Team</a></li>
+                <li class="mobile"><a href="Pricing Guide.html">Pricing Guide</a></li>
+                <li class="desktop"><a href="Pricing Guide.html">Pricing Guide</a></li>
+                <li class="mobile"><a href="Registration.html">Register</a></li>
+                <li class="desktop"><a href="Registration.html">Register</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="wrapItem whatislever fadeGray">
+        <div class="inner">
+                <div class="top-left">
+                        <h2>Who We Are</h2>
+                        <h3 class="thick">LeverPapers is a
+                                technology company that operates
+                                a marketplace where you can
+                                connect with the best (<b>99th
+                                        percentile</b>)
+                                freelance writers to get
+                                anything written on your
+                                schedule.</h3>
+                        <p>LeverPapers is the trusted provider of
+                                content solutions for consumers
+                                around the world. Since 2010, we
+                                have helped clients from around
+                                the world connect with the best
+                                American writers for custom
+                                writing services, editing help,
+                                and business document
+                                preparation services while
+                                offering 24/7 world-class client
+                                support.</p>
+                        <p><b>We are:</b></p>
+                        <ul>
+                                <li>The global leader in
+                                        consumer writing
+                                        services</li>
+                                <li>Obsessed with customer
+                                        satisfaction (and
+                                        customer outcomes)</li>
+                                <li>People focused on driving
+                                        technological innovation
+                                </li>
+                                <li>An American company
+                                        dedicated to important
+                                        social causes like
+                                        helping eliminate
+                                        student loan debt and
+                                        bringing jobs back to
+                                        America</li>
+                        </ul>
+                        <p>We set out to become the most trusted
+                                provider in our industry while
+                                supporting causes we believe in.
+                                Our mission is simple: to
+                                conveniently deliver
+                                high-quality content and offer
+                                tremendous client support.</p>
+                </div>
+                <p><b>What we do:</b></p>
+                <ul>
+                        <li>Build web and mobile applications to
+                                connect consumers (normal
+                                people) with freelance writers
+                                in the most convenient way
+                                possible</li>
+                        <li>Drive the knowledge economy by
+                                hiring expert American writers
+                                and helping them monetize their
+                                writing skills</li>
+                        <li>Focus on building trust with our
+                                customers above everything else
+                                by putting their needs first
+                        </li>
+                </ul>
+                <p>In less than a decade, we’ve revolutionized
+                        our unique industry through continued
+                        innovation and a relentless focus on
+                        putting client trust as a main priority.
+                        The features and standards we have
+                        carefully crafted over the years have
+                        been copied, but never replicated. We're
+                        excited to delight you with what we're
+                        building next.</p>
+        </div>
+    
+                <div class="nameBlock">
+                        <div class="wrapped">
+                                <h4>What We're All About</h4>
+                                <p class="brand">LeverPapers</p>
+                                <p class="ety"><em>Leverpapers</em>
+                                        comes from the
+                                        root word
+                                        <em>Lever</em>, meaning to elevate.</p>
+                                <p class="ety-reason">We picked
+                                        this name because we
+                                        believe Leverpapers should 
+                                        put academicians on level terms,
+                                        regardless of the existing challenges.
+                                        We strive to help everyone achieve their academic dreams time and helps people
+                                        without much hussle. 
+                                </p>
+                                <div class="brand-kit">
+                                        <h4>What We Offer</h4>
+                                        <div class="colors">
+                                            <ul>
+                                                <li>Top-Class Essays</li>
+                                                <li>24/7 Customer Support</li>
+                                                <li>FREE revisions</li>
+                                            </ul>
+                                                
+                                        </div>
+        
+                                        <div class="clear">
+                                                &nbsp;</div>
+                                </div>
+                        </div>
+    </div>    
+</div>
+
+<div class="wrapItem culture">
+        <div class="pre-bg">
+                <div class="inner top">
+                        <h2>Company culture</h2>
+                        <h3 class="thick">Our mission is to
+                                conveniently deliver
+                                high-quality content while
+                                offering world-class client
+                                support.</h3>
+                        <p>Our mission drives us to innovate
+                                every day. Every piece of
+                                technology we’ve built and
+                                update we’ve made goes back to
+                                our basics: great content
+                                through great writers, a fast
+                                and smooth website or mobile app
+                                experience, and friendly support
+                                staff.</p>
+                        <h3>Company vision</h3>
+                        <p>We aspire to be the most trusted
+                                provider of content solutions
+                                for consumers around the world.
+                        </p>
+                        <h3>Core values—our SIDE</h3>
+                        <p><b>S</b>implicity. <b>I</b>nnovation.
+                                <b>D</b>iscipline.
+                                <b>E</b>mpowerment. We wanted
+                                our values to reflect one thing:
+                                LeverPapers is on your SIDE. Whether
+                                you’re a customer, writer, or
+                                vendor, LeverPapers is designed to be
+                                a trusted partner you can depend
+                                on. We chose these company
+                                values because we think they're
+                                the most fitting for making
+                                great technology that serves all
+                                people, not just our company.
+                        </p>
+                </div>
+        </div>
+        <div class="inner values">
+                <ul>
+                        <li>
+                                <p class="val">Simplicity</p>
+                                <div class="val-img-desc"><img
+                                                class="jch-lazyload"
+                                                src="images/simplicity.jpg"
+                                                data-src="/images/site-pages/about/ultius-logo-decorated-cake.jpg"
+                                                alt="LeverPapers simplicity" /><noscript><img
+                                                        src="images/simplicity.jpg"
+                                                        alt="LeverPapers simplicity" /></noscript>
+                                        <p class="desc">LeverPapers is here to simplify everything for you.
+                                               To us, simplicity means
+                                                fast, easy to
+                                                use, and
+                                                nonintimidating.
+                                        </p>
+                                </div>
+                        </li>
+                        <li>
+                                <p class="val">Innovation</p>
+                                <div class="val-img-desc"><img
+                                                class="jch-lazyload"
+                                                src="images/innovation.jpg"
+                                                data-src="/images/site-pages/about/staff-using-tablet.jpg"
+                                                alt="LeverPapers innovation" /><noscript><img
+                                                        src="images/innovation.jpg"
+                                                        alt="LeverPapers innovation" /></noscript>
+                                        <p class="desc">
+                                                Innovation means
+                                                constantly
+                                                updating our
+                                                technologies and
+                                                practices to
+                                                make things
+                                                better.</p>
+                                </div>
+                        </li>
+                        <li>
+                                <p class="val">Discipline</p>
+                                <div class="val-img-desc"><img
+                                                class="jch-lazyload"
+                                                src="images/discipline.jpg"
+                                                data-src="/images/site-pages/about/ultius-support-rep-smiling-on-phone.jpg"
+                                                alt="LeverPapers discipline" /><noscript><img
+                                                        src="images/discipline.jpg"
+                                                        alt="LeverPapers discipline" /></noscript>
+                                        <p class="desc">We stay
+                                                focused on our
+                                                mission.
+                                                Discipline means
+                                                ignoring
+                                                distractions and
+                                                being steadfast.
+                                        </p>
+                                </div>
+                        </li>
+                        <li>
+                                <p class="val">Empowerment</p>
+                                <div class="val-img-desc"><img
+                                                class="jch-lazyload"
+                                                src="images/empowerment.jpg"
+                                                data-src="/images/site-pages/about/ultius-staff-listening-to-team-member.jpg"
+                                                alt="LeverPapers empowerment" /><noscript><img
+                                                        src="images/empowerment.jpg"
+                                                        alt="LeverPapers empowerment" /></noscript>
+                                        <p class="desc">When you
+                                                work with LeverPapers
+                                                you are
+                                                empowered to
+                                                solve problems
+                                                and reach your
+                                                potential.</p>
+                                </div>
+                        </li>
+                </ul>
+                
+                <div class="midText">
+                        <h3 class="thick">LeverPapers is focused on
+                                empowering freelance writers to
+                                make their own fortune to be the
+                                entrepreneurs of their own
+                                lives.</h3>
+                        <p>Our company culture is different
+                                because the freelance writers
+                                working for LeverPapers are
+                                remote—they have the freedom to
+                                work whenever, wherever. We are
+                                dedicated to hiring the most
+                                talented writers in the United
+                                States and want to keep them
+                                with us, so we build our company
+                                around their needs.</p>
+                        <p>Our Writer Success department is
+                                directly responsible for
+                                welcoming and orienting new
+                                writers and helping existing
+                                writers in regard to LeverPapers
+                                policies and best practices.
+                                Even though you may work alone,
+                                as a writer, you are never alone
+                                when you work with LeverPapers. We
+                                have built our company around
+                                you and have a number of
+                                resources to help you succeed,
+                                including 24/7 support
+                                personnel, an amazing Helpdesk
+                                with self-service resources, an
+                                AI powered chatbot named
+                                <em>Dantes</em>, and writing
+                                resources like templates,
+                                guides, and samples.</p>
+                </div>
+        </div>
+</div>
+
+    </section>
+    <div class="wrapper bg-green">
+        <footer class="d-flex-r clear container text-white">
+            <div class="mx-2">
+            <h6 class="heading font-x1 my-1">Contact Us</h6>
+            <ul class="nospace linkedlist contact">
+                    <li><i class="fa fa-map-marker"></i>
+                            <address>566 Main Street, Illinois</address>
+                    </li>
+                    <li><i class="fa fa-phone"></i> +1(516)2346 124</li>
+                    <li><i class="fa fa-envelope"> support@leverpapers.com</i></li>
+                    <li><a class="text-white" href="https://www.youtube.com" target="_blank"><i class="fa fa-youtube"></i>LeverPapers</a></li>
+    
+            </ul>
+            </div>
+            <div class="mx-2">
+                    <h6 class="heading font-x1 my-1">About</h6>
+                    <ul class="nospace linkedlist">
+                    <li><a href="About Us.html">Company Profile</a></li>
+                    <li><a href="">Support</a></li>
+                    <li><a href="">Blog</a></li>
+                    </ul>
+            </div>
+            <div class="mx-2">
+                    <h6 class="heading font-x1 my-1">Company</h6>
+                    <ul class="nospace linkedlist">
+                    <li><a href="">Careers</a></li>
+                    <li><a href="">Privacy</a></li>
+                    </ul>
+            </div>
+            <div class="mx-2">
+                    <h6 class="heading font-x1 my-1">Subscribe</h6>
+                    
+            </div>
+    
+    
+            LeverPapers Inc. &copy; 2024
+        </footer>
+    </div>
+
+</body>
+
+</html>
